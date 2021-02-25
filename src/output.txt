@@ -2,10 +2,10 @@ C:\Users\eduar\Escritorio\cursopython\cat.jpg
 C:\Users\eduar\Escritorio\cursopython\hybrid-images-master\data\cat.bmp
 C:\Users\eduar\Escritorio\Directorio\cat.jpg
 C:\Users\eduar\Escritorio\Directorio\hola mundo\A cat.txt
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Backend\node_modules\concat-map
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Backend\node_modules\util-deprecate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Backend-victorroblesweb\node_modules\concat-map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Backend-victorroblesweb\node_modules\util-deprecate
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Backend\node_modules\concat-map
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Backend\node_modules\util-deprecate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\Backend\node_modules\concat-map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\Backend\node_modules\util-deprecate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\@babel\plugin-proposal-optional-catch-binding
@@ -29,18 +29,6 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proye
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\pkg-up\node_modules\locate-path
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\pkg-up\node_modules\p-locate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\postcss-discard-duplicates
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\observable\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\catch.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concatAll.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concatMap.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concatMapTo.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\observable\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\catchError.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concatAll.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concatMap.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concatMapTo.ts
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\_esm2015\internal\observable\concat.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\_esm2015\internal\observable\concat.js.map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\_esm2015\internal\operators\catchError.js
@@ -65,14 +53,26 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proye
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\_esm5\internal\operators\concatMap.js.map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\_esm5\internal\operators\concatMapTo.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\_esm5\internal\operators\concatMapTo.js.map
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\observable\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\catch.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concatAll.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concatMap.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\add\operator\concatMapTo.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\observable\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\catchError.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concatAll.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concatMap.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\rxjs\src\internal\operators\concatMapTo.ts
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\util-deprecate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\aprendiendopython\node_modules\webpack-dev-server\node_modules\sockjs-client\lib\location.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\plugin-proposal-optional-catch-binding
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\plugin-syntax-optional-catch-binding
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\plugin-transform-duplicate-keys
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\traverse\lib\path\modification.js
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\types\lib\modifications\flow\removeTypeDuplicates.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\types\lib\modifications
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@babel\types\lib\modifications\flow\removeTypeDuplicates.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@jest\core\build\lib\handle_deprecation_warnings.d.ts
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@jest\core\build\lib\handle_deprecation_warnings.d.ts.map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\@jest\core\build\lib\handle_deprecation_warnings.js
@@ -96,11 +96,11 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proye
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\core-js\stable\array\virtual\concat.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\es5-ext\array\#\concat
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\es5-ext\test\array\#\concat
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\eslint\lib\rules\utils\unicode\is-regional-indicator-symbol.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\eslint-module-utils\node_modules\locate-path
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\eslint-module-utils\node_modules\p-locate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\eslint-plugin-import\node_modules\locate-path
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\eslint-plugin-import\node_modules\p-locate
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\eslint\lib\rules\utils\unicode\is-regional-indicator-symbol.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\jest-environment-jsdom-fourteen\node_modules\jsdom\lib\jsdom\living\generated\Location.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\jest-environment-jsdom-fourteen\node_modules\jsdom\lib\jsdom\living\window\Location-impl.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\jest-environment-jsdom-fourteen\node_modules\parse5\lib\extensions\location-info
@@ -114,18 +114,6 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proye
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\pkg-up\node_modules\locate-path
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\pkg-up\node_modules\p-locate
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\postcss-discard-duplicates
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\observable\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\catch.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concatAll.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concatMap.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concatMapTo.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\observable\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\catchError.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concat.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concatAll.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concatMap.ts
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concatMapTo.ts
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\_esm2015\internal\observable\concat.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\_esm2015\internal\observable\concat.js.map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\_esm2015\internal\operators\catchError.js
@@ -150,13 +138,25 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proye
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\_esm5\internal\operators\concatMap.js.map
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\_esm5\internal\operators\concatMapTo.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\_esm5\internal\operators\concatMapTo.js.map
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\observable\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\catch.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concatAll.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concatMap.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\add\operator\concatMapTo.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\observable\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\catchError.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concat.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concatAll.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concatMap.ts
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\rxjs\src\internal\operators\concatMapTo.ts
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\util-deprecate
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack-dev-server\lib\utils\createCertificate.js
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack-dev-server\node_modules\sockjs-client\lib\location.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack\lib\logging\truncateArgs.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack\lib\optimize\ConcatenatedModule.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack\lib\optimize\MergeDuplicateChunksPlugin.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack\lib\optimize\ModuleConcatenationPlugin.js
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack-dev-server\lib\utils\createCertificate.js
-C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\webpack-dev-server\node_modules\sockjs-client\lib\location.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\workbox-build\build\lib\check-for-deprecated-options.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\workbox-build\src\lib\check-for-deprecated-options.js
 C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Proyecto2\Proyecto2IA\node_modules\xregexp\lib\addons\unicode-categories.js
@@ -1631,6 +1631,7 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Clasif
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\ClasificarImagenes\Eduardo_ClasificadorCNN\CNN desde cero\data\validacion\gato\cat.4998.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\ClasificarImagenes\Eduardo_ClasificadorCNN\CNN desde cero\data\validacion\gato\cat.4999.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\ClasificarImagenes\Eduardo_ClasificadorCNN\CNN desde cero\data\validacion\gato\cat.5000.jpg
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats\cat.4001.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats\cat.4002.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats\cat.4003.jpg
@@ -2631,7 +2632,7 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rn
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats\cat.4998.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats\cat.4999.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats\cat.5000.jpg
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\test_set\cats
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats\cat.1.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats\cat.10.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats\cat.100.jpg
@@ -6632,191 +6633,190 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rn
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats\cat.997.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats\cat.998.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats\cat.999.jpg
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\rnc\dataset\training_set\cats
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Lalito\Python-master\Bitcoin_Price_Notification.ipynb
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Lalito\Python-master\Bitcoin_Price_Prediction\bitcoin_price_notification.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Lalito\Python-master\Classify_Images\cat.4014.jpg
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Lalito\Python-master\concatenate_file.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\h5py\tests\test_deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\h5py\tests\__pycache__\test_deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\h5py\tests\test_deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\keras\applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\keras_applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\Keras_Applications-1.0.8.dist-info
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\category.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\cbook\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\cbook\__pycache__\deprecation.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\__pycache__\category.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid\inset_locator.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid\__pycache__\inset_locator.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid1\inset_locator.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\category.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\cbook\__pycache__\deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\matplotlib\cbook\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid1\__pycache__\inset_locator.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid1\inset_locator.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid\__pycache__\inset_locator.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\mpl_toolkits\axes_grid\inset_locator.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\core\include\numpy\npy_no_deprecated_api.h
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\core\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\linalg\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\ma\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\arrays\categorical.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\arrays\__pycache__\categorical.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\dtypes\concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\arrays\categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\dtypes\__pycache__\concat.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\groupby\categorical.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\dtypes\concat.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\groupby\__pycache__\categorical.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\indexes\category.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\groupby\categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\indexes\__pycache__\category.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\internals\concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\indexes\category.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\internals\__pycache__\concat.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\reshape\concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\internals\concat.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\reshape\__pycache__\concat.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\core\reshape\concat.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\arrays\categorical
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\dtypes\test_concat.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\dtypes\__pycache__\test_concat.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\extension\test_categorical.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\dtypes\test_concat.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\extension\__pycache__\test_categorical.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\frame\test_combine_concat.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\frame\test_duplicates.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\extension\test_categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\frame\__pycache__\test_combine_concat.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\frame\__pycache__\test_duplicates.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\groupby\test_categorical.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\frame\test_combine_concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\frame\test_duplicates.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\groupby\__pycache__\test_categorical.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\multi\test_duplicates.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\multi\__pycache__\test_duplicates.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\test_category.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\groupby\test_categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\__pycache__\test_category.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexing\test_categorical.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\multi\__pycache__\test_duplicates.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\multi\test_duplicates.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexes\test_category.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexing\__pycache__\test_categorical.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\reshape\test_concat.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\reshape\test_union_categoricals.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexing\test_categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\reshape\__pycache__\test_concat.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\reshape\__pycache__\test_union_categoricals.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\series\test_combine_concat.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\series\test_duplicates.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\reshape\test_concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\reshape\test_union_categoricals.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\series\__pycache__\test_combine_concat.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\series\__pycache__\test_duplicates.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\sparse\test_combine_concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\series\test_combine_concat.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\series\test_duplicates.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\sparse\__pycache__\test_combine_concat.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\test_assert_categorical_equal.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\test_deprecate.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\test_deprecate_kwarg.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\sparse\test_combine_concat.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\__pycache__\test_assert_categorical_equal.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\__pycache__\test_deprecate.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\__pycache__\test_deprecate_kwarg.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\test_assert_categorical_equal.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\test_deprecate.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\util\test_deprecate_kwarg.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\locations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\utils\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_vendor\distlib\locators.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pytz\zoneinfo\Asia\Muscat
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\_lib\__pycache__\deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\_lib\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\matlab\tests\data\nasty_duplicate_fieldnames.mat
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_arrays_replicated.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_arrays_replicated_3d.sav
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated.sav
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated_3d.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_pointer_arrays_replicated.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_pointer_arrays_replicated_3d.sav
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated.sav
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated_3d.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_scalars_replicated.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\io\tests\data\struct_scalars_replicated_3d.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\linalg\src\lapack_deprecations
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\_lib\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\scipy\_lib\__pycache__\deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\_build_utils\__pycache__\deprecated_modules.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\_build_utils\deprecated_modules.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\datasets\tests\data\svmlight_classification.txt
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\tests\test_truncated_svd.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\tests\__pycache__\test_truncated_svd.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\truncated_svd.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\_truncated_svd.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\__pycache__\truncated_svd.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\__pycache__\_truncated_svd.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\classification.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\tests\test_classification.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\tests\__pycache__\test_classification.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\_classification.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\__pycache__\classification.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\__pycache__\truncated_svd.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\_truncated_svd.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\tests\__pycache__\test_truncated_svd.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\tests\test_truncated_svd.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\decomposition\truncated_svd.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\__pycache__\_classification.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\classification.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\_classification.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\__pycache__\classification.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\__pycache__\classification.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\_classification.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\classification.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\tests\__pycache__\test_classification.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\metrics\tests\test_classification.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\__pycache__\_classification.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\tests\test_import_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\__pycache__\classification.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\_classification.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\neighbors\classification.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\tests\__pycache__\test_import_deprecations.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\tests\test_import_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\__pycache__\deprecation.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\tests\test_deprecated_utils.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\tests\test_deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\tests\__pycache__\test_deprecated_utils.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\tests\__pycache__\test_deprecation.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\__pycache__\deprecation.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\_build_utils\deprecated_modules.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\_build_utils\__pycache__\deprecated_modules.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\tests\test_deprecated_utils.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\sklearn\utils\tests\test_deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface.xml
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface_extended.xml
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\core\include\numpy\npy_no_deprecated_api.h
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\core\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\linalg\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\ma\tests\__pycache__\test_deprecations.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\locations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\utils\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_vendor\distlib\locators.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface.xml
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface_extended.xml
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\h5py\tests\test_deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\h5py\tests\__pycache__\test_deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\h5py\tests\test_deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\keras\applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\keras_applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\Keras_Applications-1.0.8.dist-info
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\category.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\cbook\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\cbook\__pycache__\deprecation.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\__pycache__\category.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid\inset_locator.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid\__pycache__\inset_locator.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid1\inset_locator.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\category.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\cbook\__pycache__\deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\matplotlib\cbook\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid1\__pycache__\inset_locator.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid1\inset_locator.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid\__pycache__\inset_locator.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\mpl_toolkits\axes_grid\inset_locator.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\core\include\numpy\npy_no_deprecated_api.h
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\core\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\linalg\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\ma\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\backend_application.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\legacy_application.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\mobile_application.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\service_application.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\web_application.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\__pycache__\backend_application.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\__pycache__\legacy_application.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\__pycache__\mobile_application.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\__pycache__\service_application.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\__pycache__\web_application.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\revocation.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\backend_application.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\legacy_application.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\mobile_application.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\service_application.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\clients\web_application.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\__pycache__\revocation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\oauthlib\oauth2\rfc6749\endpoints\revocation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\locations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\utils\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_vendor\distlib\locators.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\_lib\__pycache__\deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\_lib\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\matlab\tests\data\nasty_duplicate_fieldnames.mat
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_arrays_replicated.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_arrays_replicated_3d.sav
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated.sav
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated_3d.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_pointer_arrays_replicated.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_pointer_arrays_replicated_3d.sav
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated.sav
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_pointers_replicated_3d.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_scalars_replicated.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\io\tests\data\struct_scalars_replicated_3d.sav
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\linalg\src\lapack_deprecations
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\_lib\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\scipy\_lib\__pycache__\deprecation.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\backend\application.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\backend\__pycache__\application.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\compat\proto\allocation_description_pb2.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\compat\proto\__pycache__\allocation_description_pb2.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\_vendor\tensorflow_serving\apis\classification_pb2.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\_vendor\tensorflow_serving\apis\__pycache__\classification_pb2.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\core\framework\allocation_description_pb2.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\_vendor\tensorflow_serving\apis\classification_pb2.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\backend\__pycache__\application.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\backend\application.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\compat\proto\__pycache__\allocation_description_pb2.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorboard\compat\proto\allocation_description_pb2.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\core\framework\__pycache__\allocation_description_pb2.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\core\framework\allocation_description_pb2.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\include\absl\strings\str_cat.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\include\absl\synchronization\notification.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\include\Eigen\src\Core\Replicate.h
@@ -6847,38 +6847,38 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios ge
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\include\tensorflow_core\stream_executor\device_memory_allocator.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\include\tensorflow_core\stream_executor\scratch_allocator.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\include\unsupported\Eigen\CXX11\src\Tensor\TensorConcatenation.h
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\keras\api\keras\applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\keras\api\_v1\keras\applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\keras\api\_v2\keras\applications
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\keras\api\keras\applications
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\keras\applications
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\ops\distributions\categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\ops\distributions\__pycache__\categorical.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\ops\ragged\ragged_concat_ops.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\ops\distributions\categorical.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\ops\ragged\__pycache__\ragged_concat_ops.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\util\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\util\deprecation_wrapper.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\ops\ragged\ragged_concat_ops.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\util\__pycache__\deprecation.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\util\__pycache__\deprecation_wrapper.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\tools\compatibility\module_deprecations_v2.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\util\deprecation.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\python\util\deprecation_wrapper.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\tools\compatibility\__pycache__\module_deprecations_v2.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\tensorflow_core\tools\compatibility\module_deprecations_v2.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface.xml
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface_extended.xml
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\category.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\cbook\deprecation.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\cbook\__pycache__\deprecation.cpython-36.pyc
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\__pycache__\category.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid\inset_locator.py
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid\__pycache__\inset_locator.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid1\inset_locator.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\category.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\cbook\__pycache__\deprecation.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\matplotlib\cbook\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid1\__pycache__\inset_locator.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid1\inset_locator.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid\__pycache__\inset_locator.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\mpl_toolkits\axes_grid\inset_locator.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\core\include\numpy\npy_no_deprecated_api.h
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\core\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\linalg\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\ma\tests\__pycache__\test_deprecations.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\locations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\utils\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_vendor\distlib\locators.py
@@ -6886,12 +6886,12 @@ C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbr
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface_extended.xml
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\core\include\numpy\npy_no_deprecated_api.h
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\core\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\core\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\linalg\tests\__pycache__\test_deprecations.cpython-36.pyc
-C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\linalg\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\ma\tests\__pycache__\test_deprecations.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\ma\tests\test_deprecations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\locations.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_internal\utils\deprecation.py
 C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\pip-19.0.3-py3.6.egg\pip\_vendor\distlib\locators.py
@@ -6922,8 +6922,8 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\file\Duplicat
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\file\DuplicatesStrategy.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\file\FileSystemLocation.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\file\FileSystemLocationProperty.html
-C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\invocation\BuildInvocationDetails.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\invocation
+C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\invocation\BuildInvocationDetails.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\plugins\ApplicationPlugin.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\plugins\ApplicationPluginConvention.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\plugins\JavaApplication.html
@@ -6937,12 +6937,12 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\publish\Publi
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\publish\PublicationContainer.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\tasks\application
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\api\tasks\VerificationTask.html
+C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication\Authentication.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication\aws\AwsImAuthentication.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication\http\BasicAuthentication.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication\http\DigestAuthentication.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication\http\HttpHeaderAuthentication.html
-C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\authentication
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\jvm\application
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\language\cpp\CppApplication.html
 C:\Users\eduar\Escritorio\gradle-6.1.1\docs\javadoc\org\gradle\language\cpp\plugins\CppApplicationPlugin.html
@@ -6990,6 +6990,21 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\build-init\org\gradle\buildinit\plugi
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\build-init\org\gradle\buildinit\plugins\internal\JavaApplicationProjectInitDescriptor.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\build-init\org\gradle\buildinit\plugins\internal\KotlinApplicationProjectInitDescriptor.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\build-init\org\gradle\buildinit\plugins\internal\SwiftApplicationProjectInitDescriptor.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\artifacts\ConfigurationPublications.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\artifacts\repositories\AuthenticationContainer.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\artifacts\repositories\AuthenticationSupported.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\DuplicateFileCopyingException.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\DuplicatesStrategy.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\FileSystemLocation.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\FileSystemLocationProperty.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\invocation
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\invocation\BuildInvocationDetails.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\tasks\VerificationTask.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation\Deprecatable.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation\DeprecatableConfiguration.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation\LoggingDeprecatable.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\installation\CurrentGradleInstallationLocator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\api\internal\file\copy\DuplicateHandlingCopyActionDecorator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\api\internal\plugins\ClassloaderBackedPluginDescriptorLocator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\api\internal\plugins\PluginApplicationException.java
@@ -7002,18 +7017,18 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\configuration\interna
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\execution\DeprecateUndefinedBuildWorkExecutor.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\initialization\SettingsLocation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\artifacts\repositories\AuthenticationSupportedInternal.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\authentication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\authentication\AbstractAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\authentication\AllSchemesAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\authentication\AuthenticationInternal.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\authentication\DefaultAuthenticationContainer.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\authentication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\exceptions\LocationAwareException.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\featurelifecycle\ScriptUsageLocationReporter.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\file\DefaultReservedFileSystemLocationRegistry.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\file\ReservedFileSystemLocation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\file\ReservedFileSystemLocationRegistry.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\invocation\DefaultBuildInvocationDetails.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\invocation
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\invocation\DefaultBuildInvocationDetails.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\operations\notify\BuildOperationNotificationBridge.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\operations\notify\BuildOperationNotificationValve.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\internal\scopeids\id\BuildInvocationScopeId.java
@@ -7024,31 +7039,16 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\listener\ClosureBacke
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\plugin\use\internal\PluginRequestApplicator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\process\internal\worker\child\ApplicationClassesInSystemClassLoaderWorkerImplementationFactory.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\core\org\gradle\util\DistributionLocator.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\artifacts\ConfigurationPublications.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\artifacts\repositories\AuthenticationContainer.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\artifacts\repositories\AuthenticationSupported.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\DuplicateFileCopyingException.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\DuplicatesStrategy.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\FileSystemLocation.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\file\FileSystemLocationProperty.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\invocation\BuildInvocationDetails.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\invocation
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\api\tasks\VerificationTask.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation\Deprecatable.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation\DeprecatableConfiguration.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation\LoggingDeprecatable.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\deprecation
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\core-api\org\gradle\internal\installation\CurrentGradleInstallationLocator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ArtifactPublicationServices.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\configurations\DefaultConfigurationPublications.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\dependencysubstitution\CachingDependencySubstitutionApplicator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\dependencysubstitution\DefaultDependencySubstitutionApplicator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\dependencysubstitution\DependencySubstitutionApplicator.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\verification
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\verification\ArtifactVerificationOperation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\verification\ChecksumVerificationOverride.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\verification\DependencyVerificationOverride.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\verification\WriteDependencyVerificationFile.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\verification
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\modulecache\StringDeduplicatingDecoder.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\projectmodule\DefaultProjectDependencyPublicationResolver.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\ivyservice\projectmodule\DefaultProjectPublication.java
@@ -7068,6 +7068,7 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\transform\CacheableInvocation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\transform\DefaultTransformerInvocationFactory.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\transform\TransformerInvocationFactory.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification\model\ArtifactVerificationMetadata.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification\model\ComponentVerificationMetadata.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification\model\ImmutableArtifactVerificationMetadata.java
@@ -7075,9 +7076,9 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification\serializer\DependencyVerificationsXmlReader.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification\serializer\DependencyVerificationsXmlWriter.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification\serializer\DependencyVerificationXmlTags.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\artifacts\verification
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\dependency-management\org\gradle\api\internal\runtimeshaded\ImplementationDependencyRelocator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\file-collections\org\gradle\api\internal\file\DefaultFileSystemLocation.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide-native\org\gradle\ide\visualstudio\internal\CppApplicationVisualStudioTargetBinary.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\configurer\HierarchicalElementDeduplicator.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\tooling\BuildInvocationsBuilder.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\tooling\eclipse\DefaultEclipseOutputLocation.java
@@ -7085,7 +7086,6 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\t
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\tooling\model\DefaultGradlePublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\tooling\model\DefaultProjectPublications.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide\org\gradle\plugins\ide\internal\tooling\PublicationsBuilder.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\ide-native\org\gradle\ide\visualstudio\internal\CppApplicationVisualStudioTargetBinary.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-integ-testing\org\gradle\integtests\fixtures\AbstractProjectRelocationIntegrationTest.groovy
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-integ-testing\org\gradle\integtests\fixtures\AbstractTaskRelocationIntegrationTest.groovy
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-integ-testing\org\gradle\integtests\fixtures\BuildOperationNotificationsFixture.groovy
@@ -7105,18 +7105,18 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-performance-testing\org\grad
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-performance-testing\org\gradle\performance\fixture\InvocationSpec.groovy
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-performance-testing\org\gradle\performance\fixture\MavenInvocationSpec.groovy
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\internal-performance-testing\org\gradle\performance\fixture\TestProjectLocator.groovy
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publication\DefaultIvyPublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publication\DefaultIvyPublicationIdentity.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publication\IvyPublicationInternal.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publisher\IvyNormalizedPublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\internal\publisher\IvyPublicationIdentity.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\InvalidIvyPublicationException.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\ivy\org\gradle\api\publish\ivy\IvyPublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\jacoco\org\gradle\testing\jacoco\tasks\JacocoCoverageVerification.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\kotlin-dsl-provider-plugins\org\gradle\kotlin\dsl\provider\plugins\DefaultKotlinScriptBasePluginsApplicator.kt
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\kotlin-dsl\org\gradle\kotlin\dsl\ConfigurationDeprecatedExtensions.kt
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\kotlin-dsl\org\gradle\kotlin\dsl\provider\KotlinScriptBasePluginsApplicator.kt
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\kotlin-dsl-provider-plugins\org\gradle\kotlin\dsl\provider\plugins\DefaultKotlinScriptBasePluginsApplicator.kt
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\language-native\META-INF\gradle-plugins\org.gradle.cpp-application.properties
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\language-native\META-INF\gradle-plugins\org.gradle.swift-application.properties
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\language-native\org\gradle\language\cpp\CppApplication.java
@@ -7138,10 +7138,10 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\logging\org\gradle\internal\featureli
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\logging\org\gradle\util\DeprecationLogger.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\apache\maven\artifact\ant\Authentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publication
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publication\DefaultMavenPomRelocation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publication\DefaultMavenPublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publication\MavenPublicationInternal.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publisher\MavenDuplicatePublicationTracker.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\internal\publisher\MavenNormalizedPublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\maven\org\gradle\api\publish\maven\InvalidMavenPublicationException.java
@@ -7234,32 +7234,33 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\publish\org\gradle\api\publish\intern
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\publish\org\gradle\api\publish\Publication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\publish\org\gradle\api\publish\PublicationArtifact.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\publish\org\gradle\api\publish\PublicationContainer.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\authentication\Authentication.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\authentication
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\authentication\AuthenticationSchemeRegistry.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\authentication\DefaultAuthenticationSchemeRegistry.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\authentication
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\resource\connector\ResourceConnectorSpecification.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\resource\local\ModificationTimeFileAccessTimeJournal.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\resource\ResourceLocation.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\authentication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\authentication\http\BasicAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\authentication\http\DigestAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\authentication\http\HttpHeaderAuthentication.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\authentication
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\internal\authentication
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\internal\authentication\DefaultBasicAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\internal\authentication\DefaultDigestAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\internal\authentication\DefaultHttpHeaderAuthentication.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-http\org\gradle\internal\authentication
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-s3\org\gradle\authentication\aws\AwsImAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-s3\org\gradle\authentication
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-s3\org\gradle\internal\authentication\DefaultAwsImAuthentication.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-s3\org\gradle\authentication\aws\AwsImAuthentication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-s3\org\gradle\internal\authentication
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources-s3\org\gradle\internal\authentication\DefaultAwsImAuthentication.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\authentication
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\authentication\Authentication.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\authentication
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\authentication\AuthenticationSchemeRegistry.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\authentication\DefaultAuthenticationSchemeRegistry.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\resource\connector\ResourceConnectorSpecification.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\resource\local\ModificationTimeFileAccessTimeJournal.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\resources\org\gradle\internal\resource\ResourceLocation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\snapshots\org\gradle\internal\fingerprint\FileSystemLocationFingerprint.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\snapshots\org\gradle\internal\fingerprint\impl\DefaultFileSystemLocationFingerprint.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\snapshots\org\gradle\internal\fingerprint\impl\IgnoredPathFileSystemLocationFingerprint.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\snapshots\org\gradle\internal\snapshot\AbstractCompleteFileSystemLocationSnapshot.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\snapshots\org\gradle\internal\snapshot\CompleteFileSystemLocationSnapshot.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\testing-base\org\gradle\api\internal\tasks\testing\logging\TruncatedStackTraceSpec.java
+C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api-builders\org\gradle\tooling\internal\provider\runner\PluginApplicationTracker.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\events\configuration\internal\DefaultPluginApplicationResult.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\internal\adapter\MethodInvocation.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\internal\protocol\cpp\InternalCppApplication.java
@@ -7268,7 +7269,6 @@ C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\model\
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\model\gradle\BuildInvocations.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\model\gradle\GradlePublication.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api\org\gradle\tooling\model\gradle\ProjectPublications.java
-C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-api-builders\org\gradle\tooling\internal\provider\runner\PluginApplicationTracker.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\tooling-native\org\gradle\language\cpp\internal\tooling\DefaultCppApplicationModel.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\version-control\org\gradle\vcs\internal\resolver\OncePerBuildInvocationVcsVersionWorkingDirResolver.java
 C:\Users\eduar\Escritorio\gradle-6.1.1\src\worker-processes\org\gradle\process\internal\worker\child\SystemApplicationClassLoaderWorker.java
