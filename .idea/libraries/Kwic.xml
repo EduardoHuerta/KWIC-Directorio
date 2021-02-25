@@ -1,1 +1,9 @@
-
+<component name="libraryTable">
+  <library name="Kwic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Arquitectura De Software/Kwic/out/artifacts/Kwic_jar/Kwic.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
